@@ -1,0 +1,8 @@
+.chooser:hover {
+  cursor: pointer;
+  border: 2px solid var(--bs-success);
+}
+
+.chooserActive {
+  border: 2px solid var(--bs-success);
+}

@@ -1,0 +1,5 @@
+.list-group-item-action:hover {
+  background-color: #007bff; /* Niebieskie tło */
+  color: white; /* Biały tekst */
+  cursor: pointer; /* Wskaźnik w formie ręki */
+}
